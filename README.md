@@ -1,5 +1,6 @@
 # google-clone
 google-clone with React.js and Firebase.
+my clone link: https://clone-cc6cb.web.app/
 
 ### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
